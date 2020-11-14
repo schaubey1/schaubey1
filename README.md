@@ -5,10 +5,10 @@ UCSC Info Mgmt. & Computer Science.
 
     🔭Skills:   
                                                     
-    💬Languages: Python, Java, Node.js, C++, C, R, MIPS32  
+    💬Languages: Python, Java, C++, C, R, MIPS32  
     ⏩Front-end: HTML5/CSS, Javascript, Flask, Django, Angular.js  
     🔙Back-end: MySQL, MongoDB, AWS, Firebase  
-    🧰Tools: SciKit Learn, TensorFlow, GraphQL, Docker, Splunk, Wireshark, Ansible, Jenkins, Android IDE, Xcode, GIT. 
+    🧰Tools: SciKit Learn, TensorFlow,  Node.js, GraphQL, Docker, Splunk, Wireshark, Ansible, Jenkins, Android IDE, Xcode, GIT. 
 <!--
 **schaubey1/schaubey1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
