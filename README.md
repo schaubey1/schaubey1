@@ -1,13 +1,14 @@
 ### Hi there 👋,  
 
 I am an avid programmer and growing entrepreneur. I enjoy discovering questions in our day to day lives and solving them with code. 
-UCSC Info Mgmt. & Computer Science.
+UCSC Tech Info Mgmt. & Computer Science.
 
     🔭Skills:   
                                                     
     💬Languages: Python, Java, C++, C, R, MIPS32  
     ⏩Front-end: HTML5/CSS, Javascript, Flask, Django, Angular.js  
-    🔙Back-end: MySQL, MongoDB, AWS, Firebase  
+    🔙Back-end: MySQL, MongoDB, Firebase 
+    ☁️Clouds: AWS, GCP, OCI, Azure, 
     🧰Tools: SciKit Learn, Node.js, Docker, Splunk, Wireshark, Jenkins, Android IDE, Xcode, GIT. 
 <!--
 **schaubey1/schaubey1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
