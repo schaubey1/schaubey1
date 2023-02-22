@@ -8,7 +8,7 @@ UCSC Tech Info Mgmt. & Computer Science.
     💬Languages: Python, Java, C++, C, R, MIPS32  
     ⏩Front-end: HTML5/CSS, Angular.js, React.js
     🔙Back-end: MySQL, MongoDB, Firebase 
-    ☁️Clouds: AWS, GCP, OCI, Azure, 
+    ☁️Clouds: AWS, GCP, OCI, Azure, Alibaba
     🧰Tools: SciKit Learn, Node.js, Docker, Splunk, Wireshark, Jenkins, Android IDE, Xcode, GIT. 
 <!--
 **schaubey1/schaubey1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
